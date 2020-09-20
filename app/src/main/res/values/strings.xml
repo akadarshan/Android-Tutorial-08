@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tutorial 08</string>
+
+    <!--    Login Page-->
+    <string name="strLogin">Login</string>
+    <string name="strEmail">Email</string>
+    <string name="strPassword">Password</string>
+    <string name="strForgot_Password">Forgot Password?</string>
+
+    <!--Registration Page-->
+    <string name="strRegistration">Registration</string>
+    <string name="strFname">First Name</string>
+    <string name="strLname">Last Name</string>
+    <string name="strbranch">Branch CE/IT</string>
+    <string name="strMale">Male</string>
+    <string name="strFemale">Female</string>
+    <string name="strCity">City</string>
+    <string name="strStatus">Profile Status Active/Inactive</string>
+    <string name="strRegister">Register Me</string>
+</resources>
